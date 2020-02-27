@@ -2,7 +2,7 @@
 
 `A protocol for paying for proof-of-work`
 
-![Proof of Work](https://media.giphy.com/media/i7mtvabK1CxaM/giphy.gif)
+![Proof of Work](https://github.com/synfonaut/POWPP/blob/master/21e8miner.gif?raw=true)
 
 Proof-of-Work payment protocol is a [Bitcoin Schema](https://github.com/synfonaut/MAP/blob/v2/README.md#map-schema) that allows structuring the necessary data to pay for proof-of-work requests and receiving responses, for information from the 21e8 network.
 
